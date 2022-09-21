@@ -1,2 +1,3 @@
 # Object-Oriented_Programming-Java
-Object-Oriented
+Curso de Programação Orientada a Objetos em java.
+
